@@ -1,3 +1,4 @@
 __pycache__/
 mlflow_env/
 mlruns/
+*_artifacts/
